@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node api.js"
+    "start": "node Server.js"
   },
   "dependencies": {
     "blessed": "^0.1.81",
